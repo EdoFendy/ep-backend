@@ -27,7 +27,7 @@ const EMAIL_PASSWORD = "Ciaociao123!"
 const EMAIL_HOST =  "smtp.libero.it"
 const EMAIL_PORT = 465
 const EMAIL_FROM =  "EP Studio <studioprovaep@libero.it>"
-const FRONTEND_URL = "http://localhost:3000"
+const FRONTEND_URL = "http://localhost:3003"
 
 // Configure email transporter
 let transporter = null
